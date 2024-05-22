@@ -1,0 +1,5 @@
+print( "write on xhvicha kvaracxelia")
+print("his name is xvicha")
+print("his last name is kvaracxelia")
+print("it play in the italia")
+print("his team name is Napoly")
