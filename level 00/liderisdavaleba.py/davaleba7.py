@@ -1,7 +1,3 @@
 print("Tamuna")
 print("Misho")
-print("Ia")
 print("Gocha")
-print("Caco")
-print("Soso")
-print("Karlo")
