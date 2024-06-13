@@ -168,22 +168,21 @@ forward(1)
 
 right(90)
 
+right(90)
 
+forward(1)
 
+right(90)
 
+forward(20)
 
+left(90)
 
+forward(1)
 
+right(90)
 
-
-
-
-
-
-
-
-
-
+forward(20)
 
 
 
