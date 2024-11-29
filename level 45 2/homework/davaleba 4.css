@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.line-1 {
+    background-color: yellow;
+    height: 5px;
+    margin: 20px 0;
+}
+
+.container-2 {
+    text-align: center ;
+}
+.container-3 {
+    text-align: end;
+}
