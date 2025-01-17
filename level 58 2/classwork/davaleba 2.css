@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+}
+
+.relative{
+    background-color: red;
+    border: 2px solid;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
