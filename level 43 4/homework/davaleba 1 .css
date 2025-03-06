@@ -1,0 +1,5 @@
+#table2, #table2 tr {
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: center;
+}
