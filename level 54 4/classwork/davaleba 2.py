@@ -1,0 +1,1 @@
+print([i for i in range if(0, 50, 3)])
